@@ -66,6 +66,21 @@
               </div>
             </div>
           </section>
+          <!-- ABOUT -->
+          {{#if summary}}
+            <section class="content">
+              <div class="row">
+                <div class="content-cat">
+                  About
+                </div>
+                <div class="content-text">
+                  <ul>
+                    <li>{{summary}}</li>
+                  </ul>
+                </div>
+              </div>
+            </section>
+          {{/if}}
       {{/resume.basics}}
         
           {{#if resume.work.length}}
