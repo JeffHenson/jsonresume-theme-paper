@@ -97,9 +97,9 @@
                       {{/if}}
                       {{#if startDate}}
                         {{#if endDate}}
-                          <p>{{startDate}} till {{endDate}}</p>
+                          <p>{{startDate}} — {{endDate}}</p>
                         {{else}}
-                          <p>{{startDate}} till today</p>
+                          <p>{{startDate}} — today</p>
                         {{/if}}
                       {{/if}}
                     </div>
@@ -147,7 +147,7 @@
                     {{/if}}
                     {{#if startDate}}
                       {{#if endDate}}
-                        <p>{{startDate}} till {{endDate}}</p>
+                        <p>{{startDate}} — {{endDate}}</p>
                       {{/if}}
                     {{/if}}
                   </div>
@@ -182,7 +182,7 @@
                       {{/if}}
                       {{#if startDate}}
                         {{#if endDate}}
-                          <p>{{startDate}} till {{endDate}}</p>
+                          <p>{{startDate}} — {{endDate}}</p>
                         {{/if}}
                       {{/if}}
                     </div>
