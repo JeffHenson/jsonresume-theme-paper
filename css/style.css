@@ -153,7 +153,7 @@ body > div > article > div > section:last-child {
 }
 
 .content-text {
-    border-left: 1px solid #e0e0e0;
+    border-left: 1px solid #b0b0b0;
     transition: border 0.66s ease-in;
 }
 
@@ -221,7 +221,7 @@ div.content-text.work-listing.education-listing > p:nth-child(2) {
     margin-left: 3.25em;
     padding-left: 0.5em;
 
-    border-left: 1px solid #e0e0e0;
+    border-left: 1px solid #b0b0b0;
 
 }
 
