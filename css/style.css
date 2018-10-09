@@ -1,5 +1,5 @@
 body, html {
-    font-family: "sans-serif";
+    font-family: 'Noto Sans', sans-serif;
     padding-top: 2.5em;
     margin: 0;
     background-color: #fafafa;
@@ -62,6 +62,7 @@ header {
 }
 
 header p {
+    font-size: 1.3em;
     text-align: center;
 
     margin: 0;
@@ -71,7 +72,7 @@ header p {
 
 .subtitle {
     padding-top: .3em;
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: 500;
     color: #424242;
 }
@@ -138,16 +139,14 @@ body > div > article > div > section:last-child {
 
     color: #212121;
 
-    font-size: 0.975em;
-
-    /*text-align:center;*/
+    font-size: 1em;
 
     padding-left: 6.66%;
     width: 30%;
 }
 
 .content-cat p {
-    font-size: 0.75em;
+    font-size: 0.8em;
     font-weight: 600;
 
     margin-bottom: 0;
@@ -176,7 +175,7 @@ body > div > article > div > section:last-child {
 }
 
 .content-text ul li {
-    font-size: 0.75em;
+    font-size: 0.9em;
 
     display: inline-block;
 
@@ -200,7 +199,7 @@ body > div > article > div > section:last-child {
 }
 
 .work-listing p {
-    font-size: 0.75em;
+    font-size: 0.9em;
 
     color: #424242;
 
@@ -214,7 +213,7 @@ div.content-text.work-listing.education-listing > p:nth-child(2) {
 }
 
 .work-listing .highlight {
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: 400;
 
     color: #424242;
@@ -255,7 +254,7 @@ section.content.education-content > div > div.content-cat {
 }
 
 div.content-text.skills-listing > p {
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: 400;
 
     margin-left: 2em;
@@ -268,7 +267,7 @@ div.content-text.skills-listing > p > {
 }
 
 div.content-text.summary > p {
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: normal;
 
     margin-left: 2em;

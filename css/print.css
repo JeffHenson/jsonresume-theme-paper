@@ -10,14 +10,6 @@ body, html {
     padding-top: 0;
 }
 
-header p {
-    font-size: 1.3em;
-}
-
-.subtitle {
-    font-size: 0.8em;
-}
-
 .header-pic {
     float: left;
 }
@@ -45,13 +37,12 @@ header p {
 }
 
 .content-cat {
-    width: 25%;
+    width: 28%;
     color: black;
     text-align: left;
 }
 
 .content-cat p {
-    font-size: 0.6em;
     font-weight: 600;
 }
 
